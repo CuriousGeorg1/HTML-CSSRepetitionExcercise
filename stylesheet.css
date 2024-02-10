@@ -1,0 +1,47 @@
+
+
+h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    clear: both;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    clear: both;
+    float: left;
+}
+
+#dasmoto {
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+
+}
+
+.highlight {
+    color: blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+header {
+    background-image: url("./pattern.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-below {
+    clear: both;
+    padding-top: 15px;
+    float: left;
+}
+
+.image {
+    float: left;
+}
+
